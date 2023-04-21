@@ -1,4 +1,4 @@
-# itoe
+# Int to English word
 Write a succinct program to convert any integer from 1-999 into the English word (in lower case)
 Usage: ./intToEnglish (then enter integer)
 Description of parameters:
